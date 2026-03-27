@@ -25,7 +25,7 @@ I'm a final-year **Data Science** student at **Universiti Malaysia Sabah (UMS)**
 
 ## 📫 Let's Connect
 - **Email:** amjadzakwan5@gmail.com
-- **LinkedIn:** [[amjad-zakwan](https://www.linkedin.com/in/amjad-zakwan)]
+- **LinkedIn:** [amjad-zakwan(https://www.linkedin.com/in/amjad-zakwan)]
 
 > *"Turning raw data into actionable insights and intelligent predictions."*
 
