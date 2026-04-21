@@ -23,27 +23,27 @@ I'm a final-year **Data Science** student at **Universiti Malaysia Sabah (UMS)**
 ## 📈 Projects & Interests
 - **📊 Stock Market Prediction System**
 
-Built a hybrid framework combining LSTM, SVR, and Random Forest with sentiment analysis (FinBERT, BERT, VADER) for multi-stock forecasting
+  Built a hybrid framework combining LSTM, SVR, and Random Forest with sentiment analysis (FinBERT, BERT, VADER) for multi-stock forecasting
 
 - **🧠 Copilot Adoption Intelligence System**
 
-Designed an AI-driven system to evaluate organizational readiness and adoption likelihood
+  Designed an AI-driven system to evaluate organizational readiness and adoption likelihood
 
 - **📉 SmartOps: Machine Failure Prediction**
 
-Developed predictive maintenance models to detect equipment failure risks
+  Developed predictive maintenance models to detect equipment failure risks
 
 - **📊 Superstore Analytics Dashboard**
 
-Created interactive dashboards for business insights and decision-making (Power BI)
+  Created interactive dashboards for business insights and decision-making (Power BI)
 
 - **🎯 Smart Product Recommendation System**
 
-Built recommendation models using user behavior data and personalization techniques
+  Built recommendation models using user behavior data and personalization techniques
 
 - **📡 SmartRetention Engine (Telco Churn Prediction)**
 
-Implemented ML models to predict customer churn and retention strategies
+  Implemented ML models to predict customer churn and retention strategies
 
 ## 🚀 Interests
 - Financial AI & Quantitative Analysis
