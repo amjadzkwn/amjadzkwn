@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amjad
 
-I'm a final-year **Data Science** student at **Universiti Malaysia Sabah (UMS)** specializing in **Machine Learning**, **Time Series Forecasting**, and **Financial Data Analytics**. I build data-driven systems that transform raw data into **predictive insights and intelligent decision support** with a strong focus on real-world applications.
+I'm a final-year **Data Science** student at **Universiti Malaysia Sabah (UMS)** specializing in **Machine Learning**, **Time Series Forecasting**, and **Financial Data Analytics**. I build data-driven model that transform raw data into **predictive insights and intelligent decision support** with a strong focus on real-world applications.
 
 ## 🎓 Current Focus
 - **Final Year Thesis:** Building a hybrid model for stock market prediction using Machine Learning and NLP techniques.
