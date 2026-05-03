@@ -3,8 +3,6 @@
 I'm a final-year **Data Science** student at **Universiti Malaysia Sabah (UMS)** specializing in **Machine Learning**, **Time Series Forecasting**, and **Financial Data Analytics**. I build data-driven model that transform raw data into **predictive insights and intelligent decision support** with a strong focus on real-world applications.
 
 ## 🎓 Current Focus
-- **Final Year Thesis:** Building a hybrid model for stock market prediction using Machine Learning and NLP techniques.
-- Exploring how alternative data like financial news can improve financial forecasting models.
 - **Final Year Thesis**: Developing a **hybrid stock market prediction research** combining Machine Learning and NLP
 - Integrating **technical indicators + financial news sentiment** to enhance forecasting accuracy
 - Exploring **deep learning approaches** such as **LSTM and GRU for time series prediction**
